@@ -50,7 +50,7 @@ python -m garak --target_type ollama --target_name llama3.2 --spec probes.dan
 | **dan.DanInTheWild** | mitigation.MitigationBypass | **FAIL** (Взломана) | **69.14%** |
 | **dan.AutoDANCached** | dan.DAN | **PASSED** (Устояла) | **0.00%** |
 
-[Открыть интерактивный отчет Garak HTML Report](https://github.io/SK-sec/Garak-LLM-Prompt-Injection-Writeup/blob/main/Report/garak_llama3.2_report.html)
+[Открыть интерактивный отчет Garak HTML Report](https://github.com/SK-sec/Garak-LLM-Prompt-Injection-Writeup/blob/main/Report/garak_llama3.2_report.html)
 
 
 ---
